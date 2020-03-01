@@ -1,0 +1,20 @@
+{
+  "name": "emptrack",
+  "version": "1.0.0",
+  "description": "An employee tracking app using Node.js, MySQL, and Inquirer.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iviruet/EmpTrack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iviruet/EmpTrack/issues"
+  },
+  "homepage": "https://github.com/iviruet/EmpTrack#readme"
+}
